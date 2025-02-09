@@ -1,7 +1,6 @@
 # user-management-app
 Test app with Vue 3 + TS + Vuetify
 
-```md
 # Vue 3 + Vite + Vuetify User Management App
 
 ## 📌 Project Description
